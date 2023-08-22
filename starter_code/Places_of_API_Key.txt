@@ -1,0 +1,2 @@
+https://myprojects.geoapify.com/projects
+https://home.openweathermap.org/api_keys
